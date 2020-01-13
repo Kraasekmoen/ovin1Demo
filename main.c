@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main() {
-	printf("Hello bby \n");
-	printf("..and habibi \n");	
+	printf("Hello my baby \n");
+	printf("..hello my honey \n");	
 
 	if (1<0) {
 		return 1;
